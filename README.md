@@ -111,7 +111,7 @@ Enhanced data security
 👨‍💻 Author
 
 Krishna Singh
-B.Tech CSE (Dual Degree)
+22dcs011 CSE (Dual Degree)
 National Institute of Technology, Hamirpur
 
 📄 License
