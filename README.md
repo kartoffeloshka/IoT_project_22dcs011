@@ -63,11 +63,11 @@ Output Layer: LEDs + Buzzer
 🔗 Project Links
 ▶️ Wokwi Simulation
 
-👉 https://wokwi.com/projects/YOUR_PROJECT_LINK
+👉 https://wokwi.com/projects/460291139147332609
 
 ☁️ TagoIO Dashboard
 
-👉 https://admin.tago.io/dashboards/YOUR_DASHBOARD_LINK
+👉 https://admin.eu-w1.tago.io/dashboards/info/69cd3216f2ba72000bb749b4
 
 ⚠️ Note: You may need access permission for the dashboard.
 
